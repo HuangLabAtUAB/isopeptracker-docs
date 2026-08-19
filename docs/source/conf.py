@@ -117,7 +117,7 @@ latex_elements = {
 
 html_context = {
     "display_github": True, # Integrate GitHub
-    "github_user": "arafmahmud", # Username
+    "github_user": "HuangLabAtUAB", # Username
     "github_repo": "isopeptracker-docs", # Repo name
     "github_version": "main", # Version
     "conf_py_path": "/docs/source/", # Path in the checkout to the docs root
